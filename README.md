@@ -121,7 +121,8 @@ print(prediction)
 
 ## Authors
 
-- Your Name - Complete work - [ing-MARWA](https://github.com/ing-MARWA)
+- Marwa Elshafei - Complete work - [ing-MARWA](https://github.com/ing-MARWA)
+- With some help of [This Playlist](https://youtube.com/playlist?list=PL6-3IRz2XF5UuSjetc1MH2-JjvuuRG4qw&si=bZ5Ht0Ylpr8XweUE)
 
 ## License
 
