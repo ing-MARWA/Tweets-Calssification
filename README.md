@@ -79,7 +79,7 @@ print(prediction)
 
 ## Authors
 
-- Your Name - Complete work - [Your Github Username](https://github.com/Your Github Username)
+- Your Name - Complete work - [ing-MARWA](https://github.com/ing-MARWA)
 
 ## License
 
