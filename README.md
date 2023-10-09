@@ -88,5 +88,5 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md)
 ## Acknowledgments
 
 - Acknowledge any articles, papers, or websites that have contributed to this project.
-- Mention any contributors or colleagues who have helped in this project.
+
   
