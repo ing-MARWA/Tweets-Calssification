@@ -1,8 +1,5 @@
 # Tweets Classification
-## Tweets Sentiment Analysis
-
-This repository contains code developed to classify the sentiment of tweets using various Machine Learning techniques. The Sentiment140 dataset used for training and evaluation is an extensive collection of tweets, each labeled with their sentiment: positive, negative, or neutral. 
-# Sentiment140 Tweets Dataset: README
+## Tweets Sentiment140 Analysis
 
 This repository contains code for classifying tweets using machine learning. The dataset utilized for training and evaluation is the *Sentiment140* dataset. It is a popular dataset for sentiment analysis that includes 1.6 million tweets, originally collected by Stanford University researchers. 
 
