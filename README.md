@@ -26,7 +26,7 @@ The following steps are performed on the Sentiment140 dataset:
 2. **Data Splitting**: Split the data into training and test sets to ensure that the model is not overfitting the training data.
 3. **Model Training**: It includes implementations of several popular machine learning algorithms, such as Naive Bayes, Support Vector Machines, and Random Forests.
 4. **Evaluation**: Evaluate the model on the test set to measure the accuracy of the model on unseen data.
-5. ** Prediction**: Making predictions on new tweets to determine their sentiment.
+5. **Prediction**: Making predictions on new tweets to determine their sentiment.
 
 The code is modular and easily adaptable. It allows the user to train a model on the provided dataset or your own dataset.
 
