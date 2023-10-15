@@ -119,11 +119,6 @@ prediction = Class.predict(Predi)
 print(prediction)
 ```
 
-## Authors
-
-- Marwa Elshafei - Complete work - [ing-MARWA](https://github.com/ing-MARWA)
-- With some help of [This Playlist](https://youtube.com/playlist?list=PL6-3IRz2XF5UuSjetc1MH2-JjvuuRG4qw&si=bZ5Ht0Ylpr8XweUE)
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
